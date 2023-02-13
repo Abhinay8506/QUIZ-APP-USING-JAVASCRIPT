@@ -10,7 +10,7 @@ const quizDB=[
     },
     {
         question: "Q2:Who is the father of Computers?",
-        a:"James Gosling",
+        a:"James Goslings",
         b: "Charles Babbage",
         c:  "Bjarne Stroustup",
         d: "Dennis Ritchie",
