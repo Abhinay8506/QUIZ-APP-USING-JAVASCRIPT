@@ -1,10 +1,10 @@
 const quizDB=[
     {
-        question: "Q1: What is the full form of WWW?",
-        a: "World Web Wide",
-        b: "World Website Web",
-        c: "World Wide Web",
-        d: "Wide Word Website",
+        question: "Q1: What is the full form of HTML?",
+        a: "Hyper text mark language",
+        b: "High transfer mark language",
+        c: "Hyper text markup language",
+        d: "High time markup language",
         ans: "ans3"
 
     },
@@ -20,12 +20,12 @@ const quizDB=[
 
 
     {
-        question: "Q3:String is a ------ .",
+        question: "Q3:Stack is a ------ .",
         a: "character",
         b: "Data type",
         c: " Data structure",
         d: "all of above",
-        ans: "ans2"
+        ans: "ans3"
     },
     {
         question: "Q4: Which of the following language does the computer understand?",
